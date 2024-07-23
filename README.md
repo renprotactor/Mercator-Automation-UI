@@ -6,11 +6,11 @@
 This repository contains an exercise for Mercator, implemented using the Page Object Model (POM) design pattern.
 
 ### Project Structure
-__BasePage__: src/test/java/mercator/driver/BasePage.java
+__BasePage__:  src\main\java\com\mercator\utils\BasePage.java
 
 This is where the Chromedriver is instantiated.
 
-__Pages__: src/test/java/mercator/pages/*.java
+__Pages__: src\main\java\com\mercator\pages \*.java
 All the page objects are defined here.
 
 __Runner__: src/test/java/mercator/runner/Runner.java
