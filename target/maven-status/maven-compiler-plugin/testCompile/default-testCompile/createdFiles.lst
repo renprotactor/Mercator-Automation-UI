@@ -1,0 +1,7 @@
+cadmon\steps\AutomationTestSteps.class
+cadmon\pages\CartPage.class
+cadmon\runner\Runner.class
+cadmon\pages\ProductsPage.class
+cadmon\pages\LoginPage.class
+cadmon\driver\BasePage.class
+cadmon\driver\Driver.class
