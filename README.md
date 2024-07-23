@@ -11,15 +11,19 @@ __BasePage__:  src\main\java\com\mercator\utils\BasePage.java
 This is where the Chromedriver is instantiated.
 
 __Pages__: src\main\java\com\mercator\pages \*.java
+
 All the page objects are defined here.
 
 __Runner__: src/test/java/mercator/runner/Runner.java
+
 This file is used to run the scenarios. The step definition paths are specified in the glue option.
 
 __Steps__: src/test/java/mercator/steps/AutomationPracticeSteps.java
+
 All the Cucumber step definitions are located in this file.
 
 __Properties__: src/test/resources/properties/test.properties
+
 All the configuration properties, such as host and timeouts, are defined here.
 
 __Reports__: Both cucumber-html report and extend reports are generated in the path, as below.
